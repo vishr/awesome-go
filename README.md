@@ -826,6 +826,7 @@ See [go-hardware](https://github.com/rakyll/go-hardware) for a comprehensive lis
 ## Server Applications
 
 * [algernon](https://github.com/xyproto/algernon) - HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber.
+* [armor](https://github.com/labstack/armor) - Uncomplicated HTTP server, supports HTTP/2 and auto TLS.
 * [Caddy](https://github.com/mholt/caddy) - Caddy is an alternative, HTTP/2 web server that's easy to configure and use.
 * [consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
 * [devd](https://github.com/cortesi/devd) - A local webserver for developers
